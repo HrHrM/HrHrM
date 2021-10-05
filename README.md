@@ -4,7 +4,7 @@
 
 ![I am developer in REACT](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)
 
-####I'm currently dedicating myself to learning multiple tecnologies such as:
+#### I'm currently dedicating myself to learning multiple tecnologies such as:
 
 
 

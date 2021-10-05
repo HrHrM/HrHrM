@@ -1,4 +1,5 @@
-</a> </p> <h1 align="center">Johnny Bohorquez</h1>
+<h1 align="center">Johnny Bohorquez</h1>
+</a><p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></p>
 <h3 align="center">A passionate student learning to be a developer</h3>
 <h6 align="center">Little birds can remember</h6>
 

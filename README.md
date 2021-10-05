@@ -1,7 +1,7 @@
 </a> </p> <h1 align="center">Johnny Bohorquez</h1>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <h3 align="center">A passionate student learning to be a developer</h3>
 <h6 align="center">Little birds can remember</h6>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
 <!--
 **HrHrM/HrHrM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,9 @@
 <h3 align="center">A passionate student learning to be a developer</h3>
 <h6 align="center">Little birds can remember</h6>
 
-<!-- <code><img height="30" src=""></code> -->
+![I am developer in REACT](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)
 
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code> -->
+####I'm currently dedicating myself to learning multiple tecnologies such as:
 
-<!-- https://static.wikia.nocookie.net/wikiinde/images/0/0a/Machinarium-0.jpg/revision/latest?cb=20150726205627&path-prefix=es -->
+
+

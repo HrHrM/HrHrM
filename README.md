@@ -19,3 +19,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Expo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/CICD.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Git.png"></code>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HrHrM&show_icons=true&locale=en&layout=compact" alt="HrHrM" /></p>

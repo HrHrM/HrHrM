@@ -1,5 +1,6 @@
 <h1 align="center">Welcome, I'm Johnny Bohorquez</h1>
-<h3 align="center">A passionate student learning to be a developer and a fan</h3>
+<h3 align="center">A passionate student learning to be a developer</h3>
+<h6 align="center">Little birds can remember</h6>
 
 <!--
 **HrHrM/HrHrM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

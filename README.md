@@ -15,7 +15,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/JS.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Ts.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/HTML.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Css.png"></code>
+<code><img height="30" src=""></code>
 
 
 

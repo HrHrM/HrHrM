@@ -22,12 +22,13 @@
 
 ##### Also I want to deepen my knowledge on topics such as:
 
--Improve my knowledge in the fundamentals of the Web Apps
--Improve my development skills in React
--The Understanding of the communication with servers and the use of Nodejs and Express
--Testing React Apps
--Learning Containers
--State management
--Custom Hooks
+- Improve my knowledge in the fundamentals of the Web Apps
+- Improve my development skills in React
+- The Understanding of the communication with servers and the use of Nodejs and Express
+- Testing React Apps
+- Learning Containers
+- State management
+- Custom Hooks
+___
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HrHrM&show_icons=true&locale=en&layout=compact" alt="HrHrM" /></p>

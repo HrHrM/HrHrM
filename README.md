@@ -18,5 +18,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Expo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/CICD.png"></code>
-
-
+<code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Git.png"></code>

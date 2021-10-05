@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Johnny Bohorquez</h1>
+<h1 align="center">Johnny Bohorquez</h1>
 <h3 align="center">A passionate student learning to be a developer</h3>
 <h6 align="center">Little birds can remember</h6>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Johnny Bohorquez</h1>
+<h1 align="center"> <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code> Johnny Bohorquez</h1>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
 <h3 align="center">A passionate student learning to be a developer</h3>

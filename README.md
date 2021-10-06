@@ -47,7 +47,10 @@ ___
 
 ___
 <h6 align="center">Walking towards a future</h6>
-![My arm](https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/the%20beach.png)
 
+<!-- ![My arm](https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png) -->
 
+<!-- <a><img style="text-align: center;" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png" align="right" /></a> -->
+
+<a target="blank"><img align="right" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png" alt="My arm"/></a>
 

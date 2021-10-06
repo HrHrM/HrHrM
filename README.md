@@ -1,4 +1,4 @@
-<h1 align="center">Johnny Bohorquez</h1>
+<h1 align="center"> <code><img height="30" src=""></code>  Johnny Bohorquez</h1>
 <h3 align="center">A passionate student learning to be a developer</h3>
 <h6 align="center">Little birds can remember</h6>
 
@@ -35,7 +35,7 @@ ___
 
 <p> 
 
-+ <a href="https://ve.linkedin.com/in/johnnymlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Linkedin.png" alt="Johnny Bohorquez" height="30" width="40" /> Linkedin</a> 
++ <a href="https://ve.linkedin.com/in/johnnymlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Linkedin.png" alt="Johnny Bohorquez" height="40" width="40" /> Linkedin</a> 
   
 + <a href="mailto:johnny130205@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Gmail.png" alt="Johnny Bohorquez" height="30" width="40" /> johnny130205@gmail.com</a>
   

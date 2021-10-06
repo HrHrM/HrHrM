@@ -9,7 +9,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/reactjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Expressjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Redux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Reduxp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/React%20router.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/JS.png"></code>

@@ -1,8 +1,8 @@
-<h1 align="center"> <code><img height="30" src=""></code>  Johnny Bohorquez</h1>
+<h1 align="center">Johnny Bohorquez</h1>
 <h3 align="center">A passionate student learning to be a developer</h3>
 <h6 align="center">Little birds can remember</h6>
 
-![I am developer in REACT](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)
+![I am developer in REACT](https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/React_logo_wordmark.png)
 
 #### I'm currently dedicating myself to learning multiple tecnologies such as:
 
@@ -42,6 +42,12 @@ ___
 </p>
 
 ___
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HrHrM&show_icons=true&locale=en&layout=compact" alt="HrHrM" /></p>
+
+___
+<h6 align="center">Walking towards a future</h6>
+![My arm](https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/the%20beach.png)
+
 
 

@@ -31,4 +31,17 @@
 - Custom Hooks
 ___
 
+## Do you want to talk? here, my social networks:
+
+<p> 
+
++ <a href="https://ve.linkedin.com/in/johnnymlr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Johnny Bohorquez" height="30" width="40" />Linkedin</a> 
+  
++ <a href="mailto:johnny130205@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Johnny Bohorquez" height="30" width="40" />johnny130205@gmail.com</a>
+  
+</p>
+
+___
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HrHrM&show_icons=true&locale=en&layout=compact" alt="HrHrM" /></p>
+
+

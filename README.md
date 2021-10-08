@@ -46,7 +46,7 @@ ___
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HrHrM&show_icons=true&locale=en&layout=compact" alt="HrHrM" /></p>
 
 ___
-<h6 align="center">Walking towards a future</h6>
+<h6 align="center">Walking towards a better future</h6>
 
 <!-- ![My arm](https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png) -->
 

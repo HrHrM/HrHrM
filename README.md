@@ -36,7 +36,7 @@ ___
 - Custom Hooks
 ___
 
-## Do you want to talk? here, my social networks:
+### You can find me here if you want to talk (or send a e-mail) :
 
 <p> 
 

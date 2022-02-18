@@ -57,5 +57,5 @@ ___
 
 <!-- <a><img style="text-align: center;" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png" align="right" /></a> -->
 
-<a target="blank"><img align="right" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png" alt="My arm"/></a>
+<!-- <a target="blank"><img align="right" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/img/theBeach.png" alt="My arm"/></a> -->
 

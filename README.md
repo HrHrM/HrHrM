@@ -25,7 +25,7 @@ ___
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/CICD.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/HrHrM/HrHrM/main/icons/Git.png"></code>
 
-##### Also I want to deepen my knowledge on topics such as:
+<!-- ##### Also I want to deepen my knowledge on topics such as:
 
 - Improve my knowledge in the fundamentals of the Web Apps
 - Improve my development skills in React
@@ -33,7 +33,7 @@ ___
 - Testing React Apps
 - Learning Containers
 - State management
-- Custom Hooks
+- Custom Hooks-->
 ___
 
 ### You can find me here if you want to talk (or send a e-mail) :

@@ -36,7 +36,7 @@ ___
 - Custom Hooks-->
 ___
 
-### You can find me here if you want to talk (or send a e-mail) :
+### You can find me here:
 
 <p> 
 

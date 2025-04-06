@@ -14,7 +14,7 @@
 <!--Start Intro-->               
 <p align="left">Full Stack Developer with a strong passion for Angular, React, Flutter, React-Native, Node.js, and crafting intuitive user experiences for software based solutions.</p>
 
-- ✨ Student of life :)
+- ✨ Student of life, trying to be better everyday
 - 🌱 I’m currently learning many things, I see each day as a chance to grow and improve.
 - 🌍 Passionate about building scalable web and mobile apps.
 - 📚 Tech enthusiast with interest in design patterns and performance.

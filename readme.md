@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning many things, I see each day as a chance to grow and improve.
 - 🌍 Passionate about building scalable web and mobile apps.
 - 📚 Tech enthusiast with interest in design patterns and performance.
--💬 Open to mentorship, collaboration, and meaningful feedback.
+- 💬 Open to mentorship, collaboration, and meaningful feedback.
 <!-- - 💻 Visit my [Portfolio]() for more details about my personal projects. -->
 <!--End Intro-->
 
